@@ -12,9 +12,9 @@ function App() {
     const value = e.target.nm.value
     setvalue(
       value
-    ); 
+    );
     console.log(value);
-    
+
 
   }
   return (
